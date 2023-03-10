@@ -3794,3 +3794,445 @@ Game;;Result;Moves;Year;Event/Locale;Opening
 3648. Karpov vs Y Hou;;1-0;53;2018;Hou - Karpov Match;D38 Queen's Gambit Declined, Ragozin Variation
 3649. Y Hou vs Karpov;;0-1;43;2018;Hou - Karpov Match;C77 Ruy Lopez
 3650. Karpov vs Y Hou;;0-1;50;2018;Hou - Karpov Match;A10 English
+Game;;Result;Moves;Year;Event/Locale;Opening
+1. E Lazarev vs Karpov;;0-1;49;1961;Cheliabinsk;D55 Queen's Gambit Declined
+2. Karpov vs V Kalashnikov;;1-0;60;1961;Zlatoust;C68 Ruy Lopez, Exchange
+3. A Shneider vs Karpov;;0-1;51;1961;Cheliabinsk;C34 King's Gambit Accepted
+4. Karpov vs Nedelin;;1-0;36;1961;RUS-ch Juniors;C97 Ruy Lopez, Closed, Chigorin
+5. Karpov vs Budakov;;½-½;26;1961;Zlatoust;C99 Ruy Lopez, Closed, Chigorin, 12...cd
+6. Zadneprovsky vs Karpov;;0-1;65;1961;Zlatoust;E27 Nimzo-Indian, Samisch Variation
+7. Shusharin vs Karpov;;0-1;35;1961;Cheliabinsk;C77 Ruy Lopez
+8. Tarinin vs Karpov;;1-0;35;1961;Zlatoust;C97 Ruy Lopez, Closed, Chigorin
+9. Karpov vs Maksimov;;1-0;60;1961;Magnitogorsk;E81 King's Indian, Samisch
+10. V Kalashnikov vs Karpov;;½-½;62;1961;Zlatoust;E15 Queen's Indian
+11. Karpov vs S Belousov;;1-0;40;1961;Borovichi;C07 French, Tarrasch
+12. B Kalinkin vs Karpov;;½-½;32;1961;Cheliabinsk;C97 Ruy Lopez, Closed, Chigorin
+13. Karpov vs Gaimaletdinov;;1-0;60;1961;Zlatoust;C62 Ruy Lopez, Old Steinitz Defense
+14. Karpov vs Mukhudulin;;½-½;61;1961;Zlatoust;B56 Sicilian
+15. Karpov vs Shefler;;1-0;43;1961;Zlatoust;C01 French, Exchange
+16. Larinin vs Karpov;;1-0;35;1961;Zlatoust;C97 Ruy Lopez, Closed, Chigorin
+17. Timoscenko vs Karpov;;0-1;53;1961;RUS-ch Juniors;C10 French
+18. Karpov vs Ziuliarkin;;1-0;35;1961;Zlatoust;A07 King's Indian Attack
+19. Korchnoi vs Karpov;;½-½;30;1961;Simul;C45 Scotch Game
+20. Aranov vs Karpov;;0-1;71;1962;Cheliabinsk;C10 French
+21. Karpov vs Piskunov;;1-0;35;1962;Zlatoust;B03 Alekhine's Defense
+22. Karpov vs Karin;;1-0;39;1962;Cheliabinsk;B06 Robatsch
+23. V Kalashnikov vs Karpov;;½-½;36;1962;Zlatoust;C97 Ruy Lopez, Closed, Chigorin
+24. Kolishkin vs Karpov;;½-½;39;1962;Cheliabinsk;C86 Ruy Lopez, Worrall Attack
+25. Karpov vs Tarinin;;1-0;53;1962;Cheliabinsk;C73 Ruy Lopez, Modern Steinitz Defense
+Game;;Result;Moves;Year;Event/Locale;Opening
+26. V Kirillov vs Karpov;;0-1;63;1962;Zlatoust;A20 English
+27. Ziuliarkin vs Karpov;;0-1;35;1962;Zlatoust;C50 Giuoco Piano
+28. Aranov vs Karpov;;0-1;71;1962;Cheliabinsk;C10 French
+29. V Kalashnikov vs Karpov;;½-½;36;1962;Zlatoust;C97 Ruy Lopez, Closed, Chigorin
+30. Karpov vs Alekseev;;½-½;58;1962;Zlatoust;B40 Sicilian
+31. Ziuliarkin vs Karpov;;0-1;51;1963;Zlatoust;D61 Queen's Gambit Declined, Orthodox, Rubinstein Attack
+32. V Kalashnikov vs Karpov;;0-1;42;1963;Zlatoust;C44 King's Pawn Game
+33. Korotaev vs Karpov;;0-1;42;1963;Zlatoust;D35 Queen's Gambit Declined
+34. Karpov vs Botvinnik;;½-½;42;1964;Moscow clock simul;B15 Caro-Kann
+35. Karpov vs Simanov;;1-0;59;1964;Vladimir jr-ch;A07 King's Indian Attack
+36. S Sazontiev vs Karpov;;0-1;47;1964;Vladimir jr-ch;D60 Queen's Gambit Declined, Orthodox Defense
+37. Karpov vs A Petroff;;1-0;46;1964;Vladimir;C01 French, Exchange
+38. Karpov vs Fedin;;1-0;46;1964;Vladimir jr-ch;A07 King's Indian Attack
+39. Karpov vs N Orekhov;;1-0;62;1965;Tula;C05 French, Tarrasch
+40. M Drizgalovich vs Karpov;;0-1;57;1965;Tula;E61 King's Indian
+41. Karpov vs Polyakov;;1-0;31;1965;Tula;C70 Ruy Lopez
+42. Hampyuk vs Karpov;;0-1;28;1965;Tula;C92 Ruy Lopez, Closed
+43. Karpov vs Spassky;;½-½;32;1965;Vladimir;B17 Caro-Kann, Steinitz Variation
+44. D Kudischewitsch vs Karpov;;0-1;42;1966;Vladimir tt-jr;C96 Ruy Lopez, Closed
+45. Karpov vs V Arbakov;;1-0;44;1966;Vladimir tt-jr;C84 Ruy Lopez, Closed
+46. Karpov vs L Volpert;;1-0;40;1966;Yalta training;A07 King's Indian Attack
+47. Karpov vs A Kushnir;;1-0;30;1966;Yalta training;C84 Ruy Lopez, Closed
+48. Timoscenko vs Karpov;;0-1;45;1966;URS-ch U18;C91 Ruy Lopez, Closed
+49. Samadov vs Karpov;;0-1;45;1966;URS-ch U18;B15 Caro-Kann
+50. Karpov vs G Tsikhelashvili;;1-0;39;1966;URS-ch U18;B24 Sicilian, Closed
+Game;;Result;Moves;Year;Event/Locale;Opening
+51. Samadov vs Karpov;;0-1;45;1966;URS-ch U18;B15 Caro-Kann
+52. A Shakarov vs Karpov;;½-½;22;1966;URS-ch U18;D35 Queen's Gambit Declined
+53. Timoscenko vs Karpov;;0-1;45;1966;URS-ch U18;C91 Ruy Lopez, Closed
+54. Karpov vs V Lilein;;½-½;36;1966;URS-ch U18;B24 Sicilian, Closed
+55. Karpov vs V Dydyshko;;0-1;20;1966;URS-ch U18;B01 Scandinavian
+56. Karpov vs G Tsikhelashvili;;1-0;39;1966;URS-ch U18;B24 Sicilian, Closed
+57. Karpov vs A Chistiakov;;1-0;75;1966;Masters-Candidate Masters;A07 King's Indian Attack
+58. Karpov vs M Noakh;;½-½;52;1966;Masters-Candidate Masters;C41 Philidor Defense
+59. Alekseev vs Karpov;;½-½;22;1966;Masters-Candidate Masters;A46 Queen's Pawn Game
+60. Karpov vs M Noakh;;1-0;46;1966;Masters-Candidate Masters;C43 Petrov, Modern Attack
+61. Alekseev vs Karpov;;½-½;23;1966;Masters-Candidate Masters;A46 Queen's Pawn Game
+62. I A Zaitsev vs Karpov;;½-½;14;1966;Masters-Candidate Masters;C43 Petrov, Modern Attack
+63. A Chistiakov vs Karpov;;0-1;36;1966;Masters-Candidate Masters;D53 Queen's Gambit Declined
+64. Karpov vs A Chistiakov;;½-½;45;1966;Masters-Candidate Masters;A07 King's Indian Attack
+65. Karpov vs G Ravinsky;;½-½;40;1966;Masters-Candidate Masters;C77 Ruy Lopez
+66. G Ravinsky vs Karpov;;½-½;19;1966;Masters-Candidate Masters;C62 Ruy Lopez, Old Steinitz Defense
+67. M Noakh vs Karpov;;0-1;100;1966;Masters-Candidate Masters;C68 Ruy Lopez, Exchange
+68. Karpov vs I A Zaitsev;;½-½;19;1966;Masters-Candidate Masters;B10 Caro-Kann
+69. G Ravinsky vs Karpov;;0-1;44;1966;Masters-Candidate Masters;C86 Ruy Lopez, Worrall Attack
+70. Karpov vs Alekseev;;½-½;29;1966;Masters-Candidate Masters;A07 King's Indian Attack
+71. Karpov vs I A Zaitsev;;½-½;23;1966;Masters-Candidate Masters;A07 King's Indian Attack
+72. E Hatlebakk vs Karpov;;0-1;49;1966;Stockholm tt-jr;C96 Ruy Lopez, Closed
+73. Karpov vs E Hatlebakk;;½-½;51;1966;Stockholm tt-jr;C80 Ruy Lopez, Open
+74. Kupreichik vs Karpov;;0-1;33;1966;2nd Christmas Tournament;C77 Ruy Lopez
+75. Karpov vs Smejkal;;1-0;28;1966;2nd Christmas Tournament;A07 King's Indian Attack
+Game;;Result;Moves;Year;Event/Locale;Opening
+76. F Blatny vs Karpov;;½-½;17;1966;2nd Christmas Tournament;C86 Ruy Lopez, Worrall Attack
+77. Karpov vs J Augustin;;1-0;42;1966;2nd Christmas Tournament;B24 Sicilian, Closed
+78. Karpov vs E Walica;;1-0;23;1966;2nd Christmas Tournament;B20 Sicilian
+79. W Maroszczyk vs Karpov;;½-½;15;1966;2nd Christmas Tournament;D63 Queen's Gambit Declined, Orthodox Defense
+80. Vilem Novak vs Karpov;;0-1;19;1966;2nd Christmas Tournament;E22 Nimzo-Indian, Spielmann Variation
+81. Karpov vs J Sikora-Lerch;;1-0;42;1966;2nd Christmas Tournament;B24 Sicilian, Closed
+82. Karpov vs Y Dobkin;;½-½;52;1967;Leningrad;A07 King's Indian Attack
+83. Karpov vs Nizovsky;;1-0;43;1967;05, Vladimir;C77 Ruy Lopez
+84. Karpov vs M Dvoretzky;;1-0;46;1967;04, Moscow;E81 King's Indian, Samisch
+85. Karpov vs Detkov;;1-0;30;1967;03, Vladimir;C91 Ruy Lopez, Closed
+86. N Popov vs Karpov;;0-1;48;1967;Leningrad;C69 Ruy Lopez, Exchange, Gligoric Variation
+87. Vaganian vs Karpov;;½-½;40;1967;URS-ch U20;E18 Queen's Indian, Old Main line, 7.Nc3
+88. Karpov vs S A Chekhelian;;½-½;37;1967;Leningrad;B40 Sicilian
+89. Antoshin vs Karpov;;1-0;38;1967;URS ol;E12 Queen's Indian
+90. Karpov vs Palatnik;;1-0;34;1967;02, Moscow;A07 King's Indian Attack
+91. Abetisian vs Karpov;;0-1;37;1967;Leningrad;D02 Queen's Pawn Game
+92. A Lukin vs Karpov;;0-1;58;1967;03, Moscow;E31 Nimzo-Indian, Leningrad, Main line
+93. Karpov vs V Lilein;;½-½;56;1967;Leningrad;B91 Sicilian, Najdorf, Zagreb (Fianchetto) Variation
+94. Palatnik vs Karpov;;½-½;6;1967;Leningrad;C69 Ruy Lopez, Exchange, Gligoric Variation
+95. V Sadovsky vs Karpov;;0-1;50;1967;01, Vladimir;A24 English, Bremen System with ...g6
+96. Timoscenko vs Karpov;;1-0;54;1967;01, Moscow;C24 Bishop's Opening
+97. V Zakhvatov vs Karpov;;½-½;38;1967;04, Vladimir;E06 Catalan, Closed, 5.Nf3
+98. Karpov vs Tsamriuk;;1-0;46;1967;Leningrad;A07 King's Indian Attack
+99. Karpov vs E Nowak;;½-½;22;1967;2nd Christmas Tournament;C98 Ruy Lopez, Closed, Chigorin
+100. S Kornasiewicz vs Karpov;;0-1;32;1967;2nd Christmas Tournament;C63 Ruy Lopez, Schliemann Defense
+Game;;Result;Moves;Year;Event/Locale;Opening
+101. Karpov vs S Kupka;;½-½;27;1967;2nd Christmas Tournament;C69 Ruy Lopez, Exchange, Gligoric Variation
+102. Karpov vs E Schoupal;;1-0;21;1967;2nd Christmas Tournament;C42 Petrov Defense
+103. Z Rutka vs Karpov;;0-1;31;1967;2nd Christmas Tournament;C77 Ruy Lopez
+104. Karpov vs H Schaufelberger;;1-0;30;1967;6th Niemeyer prel;A07 King's Indian Attack
+105. Adorjan vs Karpov;;½-½;10;1967;6th Niemeyer prel;C69 Ruy Lopez, Exchange, Gligoric Variation
+106. Karpov vs K Maeder;;1-0;31;1967;6th Niemeyer prel;A07 King's Indian Attack
+107. Karpov vs G Ligterink;;½-½;12;1967;6th Niemeyer prel;B20 Sicilian
+108. D Zara vs Karpov;;½-½;20;1967;6th Niemeyer prel;C42 Petrov Defense
+109. Timman vs Karpov;;½-½;18;1967;6th Niemeyer prel;A46 Queen's Pawn Game
+110. Karpov vs P E Hostalet Ferrer;;½-½;11;1967;6th Niemeyer prel;D03 Torre Attack (Tartakower Variation)
+111. Hramtsov vs Karpov;;0-1;38;1968;Moscow Universitat c;A13 English
+112. S Vybornov vs Karpov;;0-1;31;1968;03, Moscow ch-stud;B28 Sicilian, O'Kelly Variation
+113. Karpov vs E Gik;;1-0;36;1968;05, Moscow ch-stud;B77 Sicilian, Dragon, Yugoslav Attack
+114. S Krasnov vs Karpov;;½-½;63;1968;04, Moscow ch-stud;D38 Queen's Gambit Declined, Ragozin Variation
+115. Karpov vs V Sukhanov;;1-0;67;1968;07, Moscow ch-stud;A07 King's Indian Attack
+116. Karpov vs V Pronin;;1-0;22;1968;02, Moscow ch-stud;A43 Old Benoni
+117. I Vatnikov vs Karpov;;½-½;9;1968;Moscow University Championship;C48 Four Knights
+118. Karpov vs I Zilbert;;1-0;21;1968;09, Moscow ch-stud;C71 Ruy Lopez
+119. Karpov vs A R Bitman;;1-0;36;1968;11, Moscow ch-stud;B40 Sicilian
+120. Karpov vs Estrin;;½-½;31;1968;09, Moscow ch-stud;C86 Ruy Lopez, Worrall Attack
+121. D Zara vs Karpov;;½-½;35;1968;6th Niemeyer final A;E18 Queen's Indian, Old Main line, 7.Nc3
+122. Karpov vs J Moles;;1-0;41;1968;6th Niemeyer final A;C77 Ruy Lopez
+123. J Lewi vs Karpov;;0-1;54;1968;6th Niemeyer final A;A21 English
+124. Karpov vs Timman;;1-0;41;1968;6th Niemeyer final A;A17 English
+125. P E Hostalet Ferrer vs Karpov;;0-1;17;1968;6th Niemeyer final A;E38 Nimzo-Indian, Classical, 4...c5
+Game;;Result;Moves;Year;Event/Locale;Opening
+126. Karpov vs Adorjan;;½-½;16;1968;6th Niemeyer final A;A07 King's Indian Attack
+127. D Ciric vs Karpov;;½-½;33;1968;Clock simul;C96 Ruy Lopez, Closed
+128. G Ligterink vs Karpov;;½-½;27;1968;6th Niemeyer final A;D63 Queen's Gambit Declined, Orthodox Defense
+129. Karpov vs B Vujakovic;;1-0;34;1968;URS-YUG;B07 Pirc
+130. B Vujakovic vs Karpov;;0-1;37;1968;URS-YUG;C77 Ruy Lopez
+131. Karpov vs B Vujakovic;;1-0;30;1968;URS-YUG;B06 Robatsch
+132. B Vujakovic vs Karpov;;½-½;26;1968;URS-YUG;C77 Ruy Lopez
+133. B Jacobsen vs Karpov;;½-½;40;1968;Tallinn tt-jr;A03 Bird's Opening
+134. Karpov vs B Jacobsen;;0-1;41;1968;Tallinn tt-jr;A89 Dutch, Leningrad, Main Variation with Nc6
+135. N Popov vs Karpov;;0-1;59;1968;6th Soviet Team Cup;C91 Ruy Lopez, Closed
+136. P Sangla vs Karpov;;0-1;11;1968;6th Soviet Team Cup;A46 Queen's Pawn Game
+137. Karpov vs Vaganian;;½-½;43;1968;6th Soviet Team Cup;B04 Alekhine's Defense, Modern
+138. B Nisman vs Karpov;;0-1;46;1968;6th Soviet Team Cup;E26 Nimzo-Indian, Samisch
+139. Karpov vs G Piesina;;1-0;33;1968;6th Soviet Team Cup;A10 English
+140. V Kirpichnikov vs Karpov;;0-1;28;1968;6th Soviet Team Cup;C85 Ruy Lopez, Exchange Variation Doubly Deferred (DERLD)
+141. Karpov vs A Lisenko;;½-½;51;1968;6th Soviet Team Cup;B31 Sicilian, Rossolimo Variation
+142. G Tsikhelashvili vs Karpov;;0-1;34;1968;6th Soviet Team Cup;C25 Vienna
+143. Karpov vs Romanishin;;1-0;40;1968;6th Soviet Team Cup;D00 Queen's Pawn Game
+144. A Reiman vs Karpov;;0-1;37;1968;6th Soviet Team Cup;E53 Nimzo-Indian, 4.e3
+145. Karpov vs I Mikliaev;;1-0;71;1968;6th Soviet Team Cup;C75 Ruy Lopez, Modern Steinitz Defense
+146. Karpov vs Tserdakh;;1-0;36;1969;03, Leningrad;C07 French, Tarrasch
+147. Karpov vs E Kogan;;1-0;38;1969;04, Leningrad tt;B31 Sicilian, Rossolimo Variation
+148. B Rytov vs Karpov;;½-½;43;1969;05, Leningrad tt;B02 Alekhine's Defense
+149. Karpov vs I Arakelov;;1-0;37;1969;01, Leningrad tt;C61 Ruy Lopez, Bird's Defense
+150. V Karasev vs Karpov;;0-1;57;1969;07, Leningrad tt;E46 Nimzo-Indian
+Game;;Result;Moves;Year;Event/Locale;Opening
+151. Karpov vs I Arakelov;;1-0;37;1969;01, Leningrad tt;C61 Ruy Lopez, Bird's Defense
+152. A Donchenko vs Karpov;;0-1;35;1969;02, Leningrad tt;A36 English
+153. Karpov vs Vaganian;;0-1;44;1969;World Jr Ch qual;B03 Alekhine's Defense
+154. Vaganian vs Karpov;;0-1;30;1969;World Jr Ch qual;E50 Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5
+155. Karpov vs Vaganian;;½-½;45;1969;World Jr Ch qual;B04 Alekhine's Defense, Modern
+156. M Steinberg vs Karpov;;½-½;54;1969;World Jr Ch qual;E19 Queen's Indian, Old Main line, 9.Qxc3
+157. Karpov vs M Steinberg;;1-0;43;1969;World Jr Ch qual;B25 Sicilian, Closed
+158. Karpov vs M Steinberg;;1-0;57;1969;World Jr Ch qual;C77 Ruy Lopez
+159. Vaganian vs Karpov;;0-1;54;1969;World Jr Ch qual;E14 Queen's Indian
+160. Petar Evrosimovsky vs Karpov;;0-1;48;1969;URS-YUG U18;C50 Giuoco Piano
+161. Karpov vs Petar Evrosimovsky;;½-½;40;1969;URS-YUG U18;B30 Sicilian
+162. M Steinberg vs Karpov;;0-1;41;1969;World Jr Ch qual;A13 English
+163. Karpov vs Vaganian;;½-½;53;1969;World Jr Ch qual;B03 Alekhine's Defense
+164. Vaganian vs Karpov;;½-½;53;1969;World Jr Ch qual;E20 Nimzo-Indian
+165. Karpov vs Petar Evrosimovsky;;½-½;71;1969;URS-YUG U18;A10 English
+166. M Steinberg vs Karpov;;½-½;24;1969;World Jr Ch qual;C93 Ruy Lopez, Closed, Smyslov Defense
+167. Karpov vs M Steinberg;;0-1;46;1969;World Jr Ch qual;B25 Sicilian, Closed
+168. Karpov vs J Konikowski;;1-0;26;1969;6th Allied Armies-ch;D37 Queen's Gambit Declined
+169. J Fridjonsson vs Karpov;;0-1;25;1969;Wch U20 prel-B;C77 Ruy Lopez
+170. Karpov vs Hug;;½-½;38;1969;Wch U20 prel-B;B29 Sicilian, Nimzovich-Rubinstein
+171. E Torre vs Karpov;;½-½;77;1969;Wch U20 prel-B;C84 Ruy Lopez, Closed
+172. Karpov vs K Payrhuber;;1-0;15;1969;Wch U20 prel-B;A07 King's Indian Attack
+173. R M McKay vs Karpov;;½-½;17;1969;Wch U20 prel-B;C86 Ruy Lopez, Worrall Attack
+174. Karpov vs A Sznapik;;1-0;28;1969;Wch U20 prel-B;B50 Sicilian
+175. Karpov vs L Neckar;;1-0;52;1969;Wch U20 fin-A;B03 Alekhine's Defense
+Game;;Result;Moves;Year;Event/Locale;Opening
+176. B Vujacic vs Karpov;;0-1;39;1969;Wch U20 fin-A;C77 Ruy Lopez
+177. Karpov vs Andersson;;1-0;60;1969;Wch U20 fin-A;C97 Ruy Lopez, Closed, Chigorin
+178. O H Castro Rojas vs Karpov;;0-1;30;1969;Wch U20 fin-A;C33 King's Gambit Accepted
+179. Karpov vs R M McKay;;1-0;37;1969;Wch U20 fin-A;B03 Alekhine's Defense
+180. J Juhnke vs Karpov;;0-1;20;1969;Wch U20 fin-A;C77 Ruy Lopez
+181. Karpov vs Vogt;;1-0;39;1969;Wch U20 fin-A;B06 Robatsch
+182. A Urzica vs Karpov;;0-1;35;1969;Wch U20 fin-A;C49 Four Knights
+183. Karpov vs Adorjan;;½-½;27;1969;Wch U20 fin-A;C98 Ruy Lopez, Closed, Chigorin
+184. J Kaplan vs Karpov;;½-½;20;1969;Wch U20 fin-A;C38 King's Gambit Accepted
+185. Karpov vs J Diaz;;1-0;29;1969;Wch U20 fin-A;A39 English, Symmetrical, Main line with d4
+186. Karpov vs Adorjan;;0-1;41;1969;Hungary - Russia Match;E64 King's Indian, Fianchetto, Yugoslav System
+187. Karpov vs Ribli;;½-½;67;1969;Hungary - Russia Match;A07 King's Indian Attack
+188. Adorjan vs Karpov;;½-½;33;1969;Hungary - Russia Match;C69 Ruy Lopez, Exchange, Gligoric Variation
+189. Ribli vs Karpov;;1-0;54;1969;Hungary - Russia Match;C77 Ruy Lopez
+190. Gipslis vs Karpov;;½-½;94;1970;Riga tt (04);C98 Ruy Lopez, Closed, Chigorin
+191. Alt vs Karpov;;0-1;94;1970;02, Riga tt;C96 Ruy Lopez, Closed
+192. Karpov vs V Zheliandinov;;1-0;43;1970;Soviet Army Team Zonal;C93 Ruy Lopez, Closed, Smyslov Defense
+193. Karpov vs V Kosenkov;;½-½;37;1970;01, Riga;B53 Sicilian
+194. Karpov vs Chilnov;;1-0;46;1970;06, Riga tt;A07 King's Indian Attack
+195. Karpov vs Izotov;;1-0;31;1970;URS;C19 French, Winawer, Advance
+196. Karpov vs A Zaitsev;;1-0;72;1970;Russian Championship;B17 Caro-Kann, Steinitz Variation
+197. Karpov vs S Zhukhovitsky;;½-½;51;1970;Russian Championship;C93 Ruy Lopez, Closed, Smyslov Defense
+198. Karpov vs V Sergievsky;;1-0;42;1970;Russian Championship;B07 Pirc
+199. V Tarasov vs Karpov;;½-½;28;1970;Russian Championship;D23 Queen's Gambit Accepted
+200. V Doroshkievich vs Karpov;;½-½;14;1970;Russian Championship;E32 Nimzo-Indian, Classical
+Game;;Result;Moves;Year;Event/Locale;Opening
+201. Karpov vs S Zhukhovitsky;;½-½;51;1970;Russian Championship;C93 Ruy Lopez, Closed, Smyslov Defense
+202. J Pavliutin vs Karpov;;0-1;30;1970;Russian Championship;E14 Queen's Indian
+203. Tseshkovsky vs Karpov;;½-½;51;1970;Russian Championship;B44 Sicilian
+204. Averkin vs Karpov;;½-½;28;1970;Russian Championship;A47 Queen's Indian
+205. Karpov vs O Dementiev;;½-½;14;1970;Russian Championship;C69 Ruy Lopez, Exchange, Gligoric Variation
+206. Karpov vs V Pozdniakov;;1-0;57;1970;Russian Championship;B42 Sicilian, Kan
+207. I A Kopylov vs Karpov;;½-½;19;1970;Russian Championship;B46 Sicilian, Taimanov Variation
+208. Karpov vs V Sergievsky;;1-0;42;1970;Russian Championship;B07 Pirc
+209. Karpov vs A Zaitsev;;1-0;72;1970;Russian Championship;B17 Caro-Kann, Steinitz Variation
+210. Karpov vs Y Anikaev;;½-½;16;1970;Russian Championship;C69 Ruy Lopez, Exchange, Gligoric Variation
+211. Karpov vs Krogius;;1-0;54;1970;Russian Championship;C09 French, Tarrasch, Open Variation, Main line
+212. Antoshin vs Karpov;;½-½;15;1970;Russian Championship;E17 Queen's Indian
+213. Karpov vs Bisguier;;½-½;84;1970;Caracas;C65 Ruy Lopez, Berlin Defense
+214. Barcza vs Karpov;;0-1;34;1970;Caracas;A37 English, Symmetrical
+215. Karpov vs Parma;;1-0;66;1970;Caracas;E32 Nimzo-Indian, Classical
+216. A Slujssar vs Karpov;;0-1;24;1970;Caracas;A46 Queen's Pawn Game
+217. Karpov vs M Cuellar Gacharna;;1-0;50;1970;Caracas;A07 King's Indian Attack
+218. Benko vs Karpov;;½-½;13;1970;Caracas;E17 Queen's Indian
+219. Karpov vs O'Kelly;;1-0;41;1970;Caracas;C95 Ruy Lopez, Closed, Breyer
+220. Ivkov vs Karpov;;1-0;29;1970;Caracas;D58 Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) Syst
+221. Karpov vs Panno;;½-½;48;1970;Caracas;B42 Sicilian, Kan
+222. Kavalek vs Karpov;;1-0;59;1970;Caracas;C98 Ruy Lopez, Closed, Chigorin
+223. Karpov vs G Sigurjonsson;;½-½;38;1970;Caracas;B06 Robatsch
+224. Karpov vs G Villarroel;;1-0;26;1970;Caracas;A15 English
+225. O Yepez Obando vs Karpov;;0-1;39;1970;Caracas;E55 Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation
+Game;;Result;Moves;Year;Event/Locale;Opening
+226. Karpov vs N Caro;;1-0;31;1970;Caracas;A22 English
+227. V Ciocaltea vs Karpov;;½-½;18;1970;Caracas;C42 Petrov Defense
+228. Karpov vs Stein;;½-½;13;1970;Caracas;C01 French, Exchange
+229. W Addison vs Karpov;;½-½;14;1970;Caracas;C42 Petrov Defense
+230. Karpov vs E Tyulin;;½-½;15;1970;Soviet Army Team Championship;A10 English
+231. Vaganian vs Karpov;;1-0;28;1970;Soviet Army Team Championship;E12 Queen's Indian
+232. Klovans vs Karpov;;½-½;50;1970;Soviet Army Team Championship;C98 Ruy Lopez, Closed, Chigorin
+233. Stein vs Karpov;;½-½;38;1970;USSR Championship;C94 Ruy Lopez, Closed, Breyer Defense
+234. Karpov vs Savon;;½-½;19;1970;USSR Championship;B92 Sicilian, Najdorf, Opocensky Variation
+235. V Karasev vs Karpov;;½-½;88;1970;USSR Championship;E17 Queen's Indian
+236. Karpov vs Antoshin;;½-½;40;1970;USSR Championship;C82 Ruy Lopez, Open
+237. Tseitlin vs Karpov;;½-½;63;1970;USSR Championship;A00 Uncommon Opening
+238. Karpov vs O Moiseev;;½-½;23;1970;USSR Championship;D42 Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3
+239. V Liberzon vs Karpov;;½-½;7;1970;USSR Championship;A30 English, Symmetrical
+240. Karpov vs Balashov;;½-½;53;1970;USSR Championship;B92 Sicilian, Najdorf, Opocensky Variation
+241. Korchnoi vs Karpov;;1-0;57;1970;USSR Championship;A34 English, Symmetrical
+242. Karpov vs Podgaets;;½-½;20;1970;USSR Championship;C95 Ruy Lopez, Closed, Breyer
+243. Averbakh vs Karpov;;½-½;52;1970;USSR Championship;D42 Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3
+244. Karpov vs Bagirov;;1-0;46;1970;USSR Championship;B05 Alekhine's Defense, Modern
+245. I Platonov vs Karpov;;½-½;29;1970;USSR Championship;A36 English
+246. Karpov vs I A Zaitsev;;1-0;56;1970;USSR Championship;C92 Ruy Lopez, Closed
+247. O Dementiev vs Karpov;;1-0;33;1970;USSR Championship;B03 Alekhine's Defense
+248. Karpov vs Vaganian;;1-0;42;1970;USSR Championship;D85 Grunfeld
+249. Gipslis vs Karpov;;½-½;17;1970;USSR Championship;C69 Ruy Lopez, Exchange, Gligoric Variation
+250. Karpov vs V Mikenas;;1-0;60;1970;USSR Championship;B05 Alekhine's Defense, Modern
+Game;;Result;Moves;Year;Event/Locale;Opening
+251. V Doroshkievich vs Karpov;;0-1;40;1970;USSR Championship;E32 Nimzo-Indian, Classical
+252. Karpov vs Tukmakov;;½-½;28;1970;USSR Championship;C95 Ruy Lopez, Closed, Breyer
+253. Kholmov vs Karpov;;½-½;49;1970;USSR Championship;B46 Sicilian, Taimanov Variation
+254. Karpov vs A Korelov;;½-½;45;1971;Team ch Leningrad University;C98 Ruy Lopez, Closed, Chigorin
+255. Karpov vs Kozlov;;1-0;42;1971;Team ch Leningrad University;B15 Caro-Kann
+256. Karpov vs Korchnoi;;1-0;40;1971;Training Match;C83 Ruy Lopez, Open
+257. Karpov vs Korchnoi;;0-1;43;1971;Training Match;B77 Sicilian, Dragon, Yugoslav Attack
+258. Korchnoi vs Karpov;;½-½;50;1971;Training Match;E17 Queen's Indian
+259. Karpov vs Korchnoi;;½-½;55;1971;Training Match;C95 Ruy Lopez, Closed, Breyer
+260. G Orlov vs Karpov;;0-1;40;1971;Team ch Leningrad University;B46 Sicilian, Taimanov Variation
+261. Karpov vs Korchnoi;;0-1;32;1971;Training Match;B83 Sicilian
+262. Karpov vs Aronshtats;;1-0;31;1971;Team ch Leningrad University;B32 Sicilian
+263. Sinakov vs Karpov;;0-1;36;1971;Team ch Leningrad University;B48 Sicilian, Taimanov Variation
+264. Karpov vs Korchnoi;;1-0;34;1971;Training Match;C09 French, Tarrasch, Open Variation, Main line
+265. Petrosian vs Karpov;;1-0;39;1971;Moscow Blitz;E12 Queen's Indian
+266. Antoshin vs Karpov;;0-1;47;1971;Moscow Blitz;E10 Queen's Pawn Game
+267. Karpov vs Suetin;;0-1;47;1971;Moscow Blitz;A52 Budapest Gambit
+268. Karpov vs Alburt;;1-0;56;1971;URS-ch sf;B45 Sicilian, Taimanov
+269. Karpov vs F N Ignatiev;;½-½;84;1971;URS-ch sf;B36 Sicilian, Accelerated Fianchetto
+270. Vaganian vs Karpov;;½-½;12;1971;URS-ch sf;E41 Nimzo-Indian
+271. V Zhuravliov vs Karpov;;½-½;34;1971;URS-ch sf;B30 Sicilian
+272. Karpov vs Dzindzichashvili;;½-½;17;1971;URS-ch sf;B83 Sicilian
+273. Karpov vs Klovans;;1-0;42;1971;URS-ch sf;C69 Ruy Lopez, Exchange, Gligoric Variation
+274. K Lerner vs Karpov;;0-1;43;1971;URS-ch sf;B46 Sicilian, Taimanov Variation
+275. M Ruderfer vs Karpov;;0-1;24;1971;URS-ch sf;E04 Catalan, Open, 5.Nf3
+Game;;Result;Moves;Year;Event/Locale;Opening
+276. V Zhuravliov vs Karpov;;½-½;34;1971;URS-ch sf;B30 Sicilian
+277. M Ruderfer vs Karpov;;0-1;24;1971;URS-ch sf;E04 Catalan, Open, 5.Nf3
+278. Karpov vs Dzindzichashvili;;½-½;17;1971;URS-ch sf;B83 Sicilian
+279. Karpov vs Y Shabanov;;1-0;42;1971;URS-ch sf;E00 Queen's Pawn Game
+280. Karpov vs V Karasev;;1-0;46;1971;URS-ch sf;A23 English, Bremen System, Keres Variation
+281. E Ubilava vs Karpov;;½-½;23;1971;URS-ch sf;B40 Sicilian
+282. F Markula vs Karpov;;0-1;31;1971;WchT U26 18th;A02 Bird's Opening
+283. B Amos vs Karpov;;0-1;28;1971;WchT U26 18th final A;B46 Sicilian, Taimanov Variation
+284. Karpov vs K Rogoff;;1-0;26;1971;WchT U26 18th final A;A22 English
+285. Karpov vs W Wittman;;1-0;25;1971;WchT U26 18th final A;E62 King's Indian, Fianchetto
+286. Ruiz vs Karpov;;½-½;18;1971;WchT U26 18th final A;B25 Sicilian, Closed
+287. Karpov vs O Dementiev;;1-0;43;1971;URS Army-chT;D12 Queen's Gambit Declined Slav
+288. V Zheliandinov vs Karpov;;½-½;75;1971;URS Army-chT;B46 Sicilian, Taimanov Variation
+289. Karpov vs Klovans;;0-1;61;1971;URS Army-chT;C69 Ruy Lopez, Exchange, Gligoric Variation
+290. Tseshkovsky vs Karpov;;½-½;27;1971;URS Army-chT;C90 Ruy Lopez, Closed
+291. Vasiukov vs Karpov;;½-½;33;1971;URS Army-chT;C94 Ruy Lopez, Closed, Breyer Defense
+292. Karpov vs Tukmakov;;1-0;44;1971;URS Army-chT;B84 Sicilian, Scheveningen
+293. Gufeld vs Karpov;;½-½;38;1971;URS Army-chT;C98 Ruy Lopez, Closed, Chigorin
+294. Karpov vs Z Gofshtein;;1-0;37;1971;7th Soviet Team Cup qual-1;A10 English
+295. A Lisenko vs Karpov;;0-1;50;1971;7th Soviet Team Cup qual-1;A36 English
+296. Karpov vs A Petrosian;;½-½;23;1971;7th Soviet Team Cup Final-A;B03 Alekhine's Defense
+297. S Vesselovsky vs Karpov;;0-1;28;1971;7th Soviet Team Cup Final-A;B46 Sicilian, Taimanov Variation
+298. V Peresipkin vs Karpov;;0-1;36;1971;7th Soviet Team Cup Final-A;B44 Sicilian
+299. Karpov vs M Steinberg;;1-0;68;1971;7th Soviet Team Cup Final-A;B81 Sicilian, Scheveningen, Keres Attack
+300. Karpov vs Taimanov;;1-0;49;1971;USSR Championship;B44 Sicilian
+Game;;Result;Moves;Year;Event/Locale;Opening
+301. Vaganian vs Karpov;;1-0;27;1971;USSR Championship;A14 English
+302. Karpov vs A Lein;;½-½;18;1971;USSR Championship;D56 Queen's Gambit Declined
+303. I Platonov vs Karpov;;½-½;21;1971;USSR Championship;A46 Queen's Pawn Game
+304. Karpov vs K Grigorian;;1-0;39;1971;USSR Championship;B04 Alekhine's Defense, Modern
+305. Geller vs Karpov;;½-½;34;1971;USSR Championship;C95 Ruy Lopez, Closed, Breyer
+306. Karpov vs Dzindzichashvili;;½-½;24;1971;USSR Championship;B01 Scandinavian
+307. Karpov vs Stein;;1-0;47;1971;USSR Championship;B57 Sicilian
+308. Smyslov vs Karpov;;1-0;29;1971;USSR Championship;D41 Queen's Gambit Declined, Semi-Tarrasch
+309. Karpov vs Savon;;½-½;46;1971;USSR Championship;B84 Sicilian, Scheveningen
+310. A Kapengut vs Karpov;;½-½;20;1971;USSR Championship;B83 Sicilian
+311. Karpov vs V Karasev;;½-½;41;1971;USSR Championship;A22 English
+312. Bronstein vs Karpov;;½-½;18;1971;USSR Championship;A07 King's Indian Attack
+313. Karpov vs Y Nikolaevsky;;1-0;41;1971;USSR Championship;B09 Pirc, Austrian Attack
+314. Krogius vs Karpov;;½-½;12;1971;USSR Championship;E17 Queen's Indian
+315. Karpov vs Tseitlin;;1-0;23;1971;USSR Championship;C63 Ruy Lopez, Schliemann Defense
+316. Shamkovich vs Karpov;;0-1;50;1971;USSR Championship;A34 English, Symmetrical
+317. Karpov vs Tukmakov;;1-0;55;1971;USSR Championship;B44 Sicilian
+318. Tal vs Karpov;;½-½;22;1971;USSR Championship;E19 Queen's Indian, Old Main line, 9.Qxc3
+319. Karpov vs Balashov;;½-½;24;1971;USSR Championship;B61 Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2
+320. Polugaevsky vs Karpov;;½-½;23;1971;USSR Championship;A34 English, Symmetrical
+321. Parma vs Karpov;;½-½;52;1971;Moscow;B46 Sicilian, Taimanov Variation
+322. Karpov vs F Olafsson;;½-½;20;1971;Moscow;B44 Sicilian
+323. Lengyel vs Karpov;;0-1;41;1971;Moscow;E04 Catalan, Open, 5.Nf3
+324. Karpov vs Gheorghiu;;½-½;18;1971;Moscow;B92 Sicilian, Najdorf, Opocensky Variation
+325. R Byrne vs Karpov;;½-½;23;1971;Moscow;B48 Sicilian, Taimanov Variation
+Game;;Result;Moves;Year;Event/Locale;Opening
+326. Karpov vs Balashov;;½-½;27;1971;Moscow;C93 Ruy Lopez, Closed, Smyslov Defense
+327. Uhlmann vs Karpov;;½-½;42;1971;Moscow;A34 English, Symmetrical
+328. Karpov vs Spassky;;½-½;32;1971;Moscow;C79 Ruy Lopez, Steinitz Defense Deferred
+329. Tal vs Karpov;;½-½;105;1971;Moscow;E17 Queen's Indian
+330. Petrosian vs Karpov;;½-½;16;1971;Moscow;E17 Queen's Indian
+331. Karpov vs Hort;;1-0;33;1971;Moscow;B81 Sicilian, Scheveningen, Keres Attack
+332. Tukmakov vs Karpov;;½-½;21;1971;Moscow;C95 Ruy Lopez, Closed, Breyer
+333. Karpov vs Bronstein;;1-0;53;1971;Moscow;B92 Sicilian, Najdorf, Opocensky Variation
+334. Korchnoi vs Karpov;;0-1;38;1971;Moscow;A30 English, Symmetrical
+335. Karpov vs Stein;;½-½;18;1971;Moscow;C95 Ruy Lopez, Closed, Breyer
+336. Smyslov vs Karpov;;½-½;24;1971;Moscow;E03 Catalan, Open
+337. Karpov vs Savon;;1-0;24;1971;Moscow;C82 Ruy Lopez, Open
+338. H Pfleger vs Karpov;;½-½;37;1971;Hastings 1971/72;E19 Queen's Indian, Old Main line, 9.Qxc3
+339. Karpov vs R Byrne;;1-0;40;1971;Hastings 1971/72;B61 Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2
+340. G Botterill vs Karpov;;0-1;49;1971;Hastings 1971/72;D58 Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) Syst
+341. Karpov vs Hartston;;1-0;60;1972;Hastings 1971/72;B44 Sicilian
+342. V Ciocaltea vs Karpov;;½-½;27;1972;Hastings 1971/72;C98 Ruy Lopez, Closed, Chigorin
+343. Karpov vs Mecking;;1-0;34;1972;Hastings 1971/72;B92 Sicilian, Najdorf, Opocensky Variation
+344. Keene vs Karpov;;0-1;40;1972;Hastings 1971/72;B46 Sicilian, Taimanov Variation
+345. Karpov vs M J Franklin;;1-0;37;1972;Hastings 1971/72;B28 Sicilian, O'Kelly Variation
+346. Gligoric vs Karpov;;½-½;24;1972;Hastings 1971/72;E54 Nimzo-Indian, 4.e3, Gligoric System
+347. Karpov vs B Kurajica;;1-0;35;1972;Hastings 1971/72;B32 Sicilian
+348. Unzicker vs Karpov;;½-½;23;1972;Hastings 1971/72;C95 Ruy Lopez, Closed, Breyer
+349. Andersson vs Karpov;;½-½;14;1972;Hastings 1971/72;A04 Reti Opening
+350. Karpov vs Najdorf;;½-½;16;1972;Hastings 1971/72;B92 Sicilian, Najdorf, Opocensky Variation
+Game;;Result;Moves;Year;Event/Locale;Opening
+351. Korchnoi vs Karpov;;1-0;44;1972;Hastings 1971/72;A46 Queen's Pawn Game
+352. Karpov vs P Markland;;1-0;55;1972;Hastings 1971/72;C18 French, Winawer
+353. Karpov vs M W Wills;;1-0;66;1972;Karpov Simul, 26b London;B04 Alekhine's Defense, Modern
+354. Karpov vs M Hawley;;1-0;44;1972;Karpov Simul, 26b London;E63 King's Indian, Fianchetto, Panno Variation
+355. Karpov vs M Friedman;;1-0;28;1972;Karpov Simul, 26b London;C80 Ruy Lopez, Open
+356. Karpov vs R E Spurgeon;;0-1;38;1972;Karpov Simul, 26b London;B33 Sicilian
+357. Karpov vs J Yeo;;1-0;35;1972;Karpov Simul, 26b London;B07 Pirc
+358. Karpov vs T C Fox;;0-1;31;1972;Karpov Simul, 26b London;B31 Sicilian, Rossolimo Variation
+359. Karpov vs S D Cunliffe;;1-0;48;1972;Karpov Simul, 26b London;C79 Ruy Lopez, Steinitz Defense Deferred
+360. Karpov vs H Ennis;;1-0;35;1972;Karpov Simul, 26b London;C84 Ruy Lopez, Closed
+361. Karpov vs A J McDonnell;;0-1;52;1972;Karpov Simul, 26b London;B42 Sicilian, Kan
+362. Karpov vs R Lynn;;1-0;25;1972;Karpov Simul, 26b London;A13 English
+363. Karpov vs A P Cullen;;1-0;41;1972;Karpov Simul, 26b London;B07 Pirc
+364. Karpov vs G Dickson;;½-½;26;1972;Karpov Simul, 26b London;C84 Ruy Lopez, Closed
+365. Karpov vs S Dickinson;;1-0;26;1972;Karpov Simul, 26b London;C07 French, Tarrasch
+366. Karpov vs F Ingram;;½-½;56;1972;Karpov Simul, 26b London;B39 Sicilian, Accelerated Fianchetto, Breyer Variation
+367. Karpov vs D Gleave;;1-0;34;1972;Karpov Simul, 26b London;C64 Ruy Lopez, Classical
+368. Karpov vs A Bernegger;;1-0;33;1972;Karpov Simul, 26b London;C05 French, Tarrasch
+369. Karpov vs S Spivack;;½-½;48;1972;Karpov Simul, 26b London;A06 Reti Opening
+370. Karpov vs R W O'Brien;;1-0;34;1972;Karpov Simul, 26b London;B81 Sicilian, Scheveningen, Keres Attack
+371. Karpov vs M Gyton;;1-0;66;1972;Karpov Simul, 26b London;A23 English, Bremen System, Keres Variation
+372. Karpov vs E Warren;;1-0;28;1972;Karpov Simul, 26b London;B92 Sicilian, Najdorf, Opocensky Variation
+373. Karpov vs T Spurgeon;;1-0;42;1972;Karpov Simul, 26b London;A93 Dutch, Stonewall, Botvinnik Variation
+374. Karpov vs R C Cannon;;½-½;29;1972;Karpov Simul, 26b London;A17 English
+375. Karpov vs D Huggins;;1-0;39;1972;Karpov Simul, 26b London;B44 Sicilian
+Game;;Result;Moves;Year;Event/Locale;Opening
+376. Karpov vs S Dickinson;;1-0;26;1972;Karpov Simul, 26b London;C07 French, Tarrasch
+377. Karpov vs W A Linton;;0-1;29;1972;Karpov Simul, 26b London;B92 Sicilian, Najdorf, Opocensky Variation
+378. Karpov vs D Huggins;;1-0;39;1972;Karpov Simul, 26b London;B44 Sicilian
+379. Karpov vs A Kudriashov;;1-0;50;1972;12th Soviet Team-ch qual-1;B81 Sicilian, Scheveningen, Keres Attack
+380. Karpov vs Taimanov;;1-0;40;1972;12th Soviet Team-ch qual-1;B42 Sicilian, Kan
+381. Karpov vs Antoshin;;0-1;57;1972;12th Soviet Team-ch qual-1;E54 Nimzo-Indian, 4.e3, Gligoric System
+382. H Karner vs Karpov;;1-0;43;1972;12th Soviet Team-ch qual-1;A46 Queen's Pawn Game
+383. Karpov vs G Kuzmin;;½-½;30;1972;12th Soviet Team Cup qual-1;B44 Sicilian
+384. Karpov vs Gipslis;;0-1;35;1972;12th Soviet Team-ch Final-A;B07 Pirc
+385. Karpov vs Bronstein;;½-½;12;1972;12th Soviet Team-ch Final-A;E15 Queen's Indian
+386. Dzindzichashvili vs Karpov;;½-½;41;1972;12th Soviet Team Cup;E17 Queen's Indian
+387. Tukmakov vs Karpov;;½-½;23;1972;12th Soviet Team-ch Final-A;B46 Sicilian, Taimanov Variation
+388. Karpov vs Smyslov;;1-0;42;1972;12th Soviet Team Cup;C42 Petrov Defense
+389. Stein vs Karpov;;0-1;41;1972;12th Soviet Team-ch Final-A;A34 English, Symmetrical
+390. Lutikov vs Karpov;;0-1;51;1972;Moscow blitz;A46 Queen's Pawn Game
+391. Karpov vs Polugaevsky;;1-0;33;1972;Moscow blitz;B92 Sicilian, Najdorf, Opocensky Variation
+392. Karpov vs Tukmakov;;1-0;57;1972;Moscow blitz;B83 Sicilian
+393. Karpov vs Lutikov;;1-0;39;1972;Moscow blitz;B00 Uncommon King's Pawn Opening
+394. Bronstein vs Karpov;;0-1;51;1972;Moscow blitz;A46 Queen's Pawn Game
+395. Korchnoi vs Karpov;;1-0;48;1972;Moscow blitz;A34 English, Symmetrical
+396. Tukmakov vs Karpov;;1-0;34;1972;Moscow blitz;C98 Ruy Lopez, Closed, Chigorin
+397. Karpov vs Balashov;;1-0;56;1972;Moscow blitz;C79 Ruy Lopez, Steinitz Defense Deferred
+398. Karpov vs Gipslis;;1-0;33;1972;Moscow blitz;B04 Alekhine's Defense, Modern
+399. Polugaevsky vs Karpov;;0-1;24;1972;Moscow blitz;E24 Nimzo-Indian, Samisch
+400. Karpov vs Vaganian;;1-0;23;1972;Moscow blitz;C19 French, Winawer, Advance
+Game;;Result;Moves;Year;Event/Locale;Opening
+401. Karpov vs Hug;;½-½;33;1972;World Student Team Championship qual-1;B33 Sicilian
+402. A Balshan vs Karpov;;½-½;67;1972;World Student Team Championship qual-1;C69 Ruy Lopez, Exchange, Gligoric Variation
+403. M Albano vs Karpov;;½-½;50;1972;World Student Team Championship qual-1;B44 Sicilian
+404. Karpov vs C Gouveia;;1-0;52;1972;World Student Team Championship qual-1;B43 Sicilian, Kan, 5.Nc3
+405. Karpov vs V Stoica;;1-0;40;1972;World Student Team Championship Final-A;B92 Sicilian, Najdorf, Opocensky Variation
+406. Karpov vs Adorjan;;½-½;41;1972;World Student Team Championship Final-A;D86 Grunfeld, Exchange
+407. G Estevez Morales vs Karpov;;0-1;55;1972;World Student Team Championship Final-A;B44 Sicilian
+408. Karpov vs Huebner;;1-0;74;1972;World Student Team Championship Final-A;B42 Sicilian, Kan
+409. Karpov vs P Markland;;1-0;30;1972;World Student Team Championship Final-A;B61 Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2
+410. J Sloth vs Karpov;;0-1;41;1972;Skopje Olympiad qual-1;A37 English, Symmetrical
+411. Karpov vs E Cobo Arteaga;;1-0;29;1972;Skopje Olympiad qual-1;B85 Sicilian, Scheveningen, Classical
+412. F Alvarez vs Karpov;;0-1;30;1972;Skopje Olympiad qual-1;B43 Sicilian, Kan, 5.Nc3
+413. I Saren vs Karpov;;0-1;30;1972;Skopje Olympiad qual-1;B44 Sicilian
+414. Karpov vs J Dueball;;1-0;64;1972;Skopje Olympiad Final-A;B76 Sicilian, Dragon, Yugoslav Attack
+415. N Padevsky vs Karpov;;1-0;66;1972;Skopje Olympiad Final-A;B40 Sicilian
+416. A Sznapik vs Karpov;;0-1;35;1972;Skopje Olympiad Final-A;A07 King's Indian Attack
+417. Karpov vs D Uddenfeldt;;1-0;27;1972;Skopje Olympiad Final-A;B93 Sicilian, Najdorf, 6.f4
+418. Karpov vs H Wirthensohn;;1-0;44;1972;Skopje Olympiad Final-A;B93 Sicilian, Najdorf, 6.f4
+419. Karpov vs Jansa;;½-½;40;1972;Skopje Olympiad Final-A;B44 Sicilian
+420. Karpov vs J Enevoldsen;;1-0;28;1972;Skopje Olympiad Final-A;C03 French, Tarrasch
+421. Bisguier vs Karpov;;0-1;32;1972;Skopje Olympiad Final-A;A34 English, Symmetrical
+422. Karpov vs F Visier Segovia;;1-0;48;1972;Skopje Olympiad Final-A;B42 Sicilian, Kan
+423. J Hase vs Karpov;;½-½;21;1972;Skopje Olympiad Final-A;C22 Center Game
+424. Karpov vs E Ungureanu;;1-0;29;1972;Skopje Olympiad Final-A;B65 Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4
+425. Karpov vs Chekhov;;0-1;39;1972;URS;C83 Ruy Lopez, Open
